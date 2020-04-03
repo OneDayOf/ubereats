@@ -112,11 +112,10 @@ h2 {
 	width: 100%;
 }
 
-
 .restaurant-item {
-	display: inline-block;
-	width: 100%;
+	display: block;
 	max-width: 308px;
+	width: 100%;
 	border-radius: 2px;
 	height: 366px;
 	overflow: hidden;
