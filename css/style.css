@@ -113,7 +113,7 @@ h2 {
 }
 
 
-.reataurant-item {
+.restaurant-item {
 	display: inline-block;
 	width: 100%;
 	max-width: 308px;
@@ -126,7 +126,7 @@ h2 {
 
 }
 
-.reataurant-item:hover {
+.restaurant-item:hover {
 	transform: translateY(-5px);
 	box-shadow: 1px 1px 5px 0px rgba(232, 232, 232, 1);;
 	cursor: pointer;
